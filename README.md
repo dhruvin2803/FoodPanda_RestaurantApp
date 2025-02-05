@@ -24,14 +24,6 @@ of the application:
 
 <img src="https://user-images.githubusercontent.com/59930781/120593185-1de38100-c40d-11eb-8a4d-d50204d21857.PNG" width="600" height="600"/>
 
-## 4. Installtion:- 
-- [Install Android Studio.](https://developer.android.com/studio?gclid=Cj0KCQjw2NyFBhDoARIsAMtHtZ6oSfh1WSo4ZRVqYZcrSjIaBEM9xcJuUTMRTFTkot-5LuPLSgtRPLQaAscGEALw_wcB&gclsrc=aw.ds)
-- Clone the repository.
-- [Change the Package Name.](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
-- Connect With your Firebase Account.
-- Download the file google-service.json from firebase project setting and import it into your project.
-- Copy Server key from firebase and put it in APIService.Java Class.
-
-## 5. Link of the Video:- 
+## 4. Link of the Video:- 
 - [Here is the Link of the Working App Model](https://youtu.be/BbgwcZ0_NT0)
 
